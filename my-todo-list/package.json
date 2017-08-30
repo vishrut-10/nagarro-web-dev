@@ -1,0 +1,16 @@
+{
+  "name": "my-todo-list",
+  "version": "1.0.0",
+  "description": "rewrite code of todo-list",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "vishrut mishra",
+  "license": "ISC"
+}
